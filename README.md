@@ -15,4 +15,3 @@ technical expertise required by conventional methods. Our prototype, showcased t
 ich avatars from simple audio inputs, offering a scalable solution that could revolutionize content creation in animation and virtual interactions. Expected outcomes include enhanced lip-sync accuracy, 
 and an improved algorithm for differentiating speech from background noise, thereby ensuring precise facial expression generation in accordance with the spoken content. Through this project, 
 we aim not only to advance the field of speech-driven facial animation but also to democratize the creation of animated content, making it accessible to a broader range of creators and industries.
-```
