@@ -2,7 +2,7 @@
 
 Course Project for CIS 6930 at University of Florida
 
-```sh {"id":"01HXQ1XPJYN88TJTYK8E9XVHY6"}
+
 ## About this Research Project
 
 This research explores the innovative intersection of speech recognition and facial animation, aiming to develop a highly accurate and expressive avatar system capable of generating facial 
