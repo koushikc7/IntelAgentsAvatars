@@ -18,6 +18,10 @@ db = flask_sqlalchemy.SQLAlchemy()
 guard = flask_praetorian.Praetorian()
 cors = flask_cors.CORS()
 
+class test():
+    def __init__(self):
+        self.name = "test"
+
 
 # A generic user model that might be used by an app powered by flask-praetorian
 class User(db.Model):
